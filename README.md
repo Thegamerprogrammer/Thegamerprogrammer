@@ -1,80 +1,72 @@
-<div align="center">
+# 👋 Hi, I'm Thegamerprogrammer
 
-# Hey there! 👋 I'm Thegamerprogrammer
+💻 Developer | 🐍 Python Programmer | 🚀 Open-Source Builder
 
-**Just a normal programmer who does stuff in Python and Batch**  
-Building tools, beautiful terminal UIs, media downloaders, automation scripts — whatever feels useful or fun.
+I enjoy building tools, terminal applications, and automation projects.
+I like experimenting with new ideas and publishing them as open-source.
 
-<br>
+---
 
-📧 thegamerprogrammernotfound@gmail.com
+## 🚀 Projects
 
-</div>
+### CrystalMedia
 
-<br><br>
+A cross-platform media downloader built in Python.
 
-## 🚀 Highlight Project
+Features include:
 
-### CrystalMedia  
-**Interactive terminal downloader for YouTube + Spotify**
+* YouTube downloading
+* Spotify metadata + fallback search
+* Terminal UI with animations
+* Cross-platform CLI support
+* Fast downloading using optimized pipelines
 
-A clean, modern TUI tool powered by yt-dlp and spotdl.  
-Download videos (MP4), music (MP3), Spotify tracks/playlists/albums — all from the terminal with style.
+🔗 https://github.com/Thegamerprogrammer/CrystalMedia
 
-**Key features**  
-- Animated Rich UI with starfield background & live progress  
-- YouTube: single videos / playlists, quality selection, age-restricted support (cookies)  
-- Spotify: Exportify CSV (recommended) or direct search fallback  
-- Bitrate presets (96–320 kbps for audio), ffmpeg handling  
-- Persistent config, auto dependency checks, detailed logs  
-- Fully Docker-compatible (no local Python or ffmpeg needed)
+---
 
-```bash
-# Quick install & run
-pip install crystalmedia
-crystalmedia
-Bash# From source
-git clone https://github.com/Thegamerprogrammer/CrystalMedia.git
-cd CrystalMedia
-pip install .
-crystalmedia
-<img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&#x26;logoColor=white" alt="Python 3.8+">
-<img src="https://img.shields.io/pypi/v/crystalmedia?color=brightgreen&#x26;logo=pypi" alt="PyPI">
-<img src="https://img.shields.io/github/stars/Thegamerprogrammer/CrystalMedia?style=social" alt="GitHub stars">
-→ View CrystalMedia →
+## 🧰 Tech Stack
 
+Languages
 
+* Python
+* Lua
+* JavaScript
 
-🛠️ Tech I usually touch
+Tools & Technologies
 
-Python 🐍 (especially CLI & TUI apps)
-Rich / Textual for good-looking terminals
-yt-dlp + spotdl for media magic
-Batch scripting & Windows tools
-Docker when I want it portable
+* Git
+* CLI / Terminal UI
+* yt-dlp
+* automation scripts
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thegamerprogrammer\&show_icons=true)
 
-📫 Say hi
-Best place → open an issue or discussion on CrystalMedia (or any repo).
-Email: thegamerprogrammernotfound@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thegamerprogrammer\&layout=compact)
 
-Thanks for dropping by!
-Feel free to ⭐ repos you like.
-Happy coding! 🚀
+---
 
-<!--
-**Thegamerprogrammer/Thegamerprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Open Source
 
-Here are some ideas to get you started:
+I enjoy releasing my tools publicly so others can use and improve them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my work includes:
+
+* CLI utilities
+* automation scripts
+* Python packages
+* experimental terminal interfaces
+
+---
+
+## 🌐 Connect
+
+GitHub: https://github.com/Thegamerprogrammer
+
+---
+
+⭐ If you like my projects, consider starring them!
